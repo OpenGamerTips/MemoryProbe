@@ -1,3 +1,7 @@
+The following unedited binaries are used in this project:
+Netwide Assembler by the NASM Authors [Homepage](https://www.nasm.us) [License](https://raw.githubusercontent.com/netwide-assembler/nasm/master/LICENSE)
+objdump by the mingw-w64 Authors [Homepage](http://mingw-w64.org/doku.php) [License](https://raw.githubusercontent.com/mirror/mingw-w64/master/DISCLAIMER)
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
